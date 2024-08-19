@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a60f1e61-84e9-47bb-aba3-98743d85960c" name="Default Changelist" comment="" />
+    <list default="true" id="a60f1e61-84e9-47bb-aba3-98743d85960c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidue/de/UniquelyFancyCarPartFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidue/de/UniquelyFancyEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidue/de/UniquelyFancySeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unidue/de/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unidue/de/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,13 +23,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2kgs4GKh8rV4cQ0DcmfLTG2TXuC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -59,14 +73,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1724069304131">
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1724075331237">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1724069304131" />
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1724075331237" />
     <state x="300" y="362" key="FileChooserDialogImpl" timestamp="1724070186171">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="300" y="362" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1724070186171" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1724083635288">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1724083635288" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1724083635288">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1724083635288" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1724083635287">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1724083635287" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1724083635288">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1724083635288" />
     <state x="0" y="182" key="SettingsEditor" timestamp="1724070677307">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
