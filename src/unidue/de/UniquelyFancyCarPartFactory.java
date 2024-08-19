@@ -8,7 +8,11 @@ public class UniquelyFancyCarPartFactory implements CarPartFactory{
 
     public static synchronized UniquelyFancyCarPartFactory getInstance() {
         if (instance == null) {
-            instance = new UniquelyFancyCarPartFactory();
+         synchronized (UniquelyFancyCarPartFactory.class){
+             if(instance == null){
+             instance = new UniquelyFancyCarPartFactory();
+             }
+         }
         }
         return instance;
     }
